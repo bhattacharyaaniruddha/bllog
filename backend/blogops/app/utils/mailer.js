@@ -4,8 +4,8 @@ let transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
         type: 'OAuth2',
-        user: "",
-        pass: "",
+        user: "@gmail.com",
+        pass: "@d",
         // clientId: process.env.OAUTH_CLIENTID,
         // clientSecret: process.env.OAUTH_CLIENT_SECRET,
         refreshToken: "1//04Cf3O_IAeN8DCgYIARAAGAQSNwF-L9IrGzkfUgbtaY3s-Sap0a57LJvotG-971KVs8_jISJVR-yHLNJBtZ3YHtSLfljqZS_X1xU"
